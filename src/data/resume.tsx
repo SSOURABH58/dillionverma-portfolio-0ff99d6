@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Frontend Developer, with expiries in React and node. pushing for FullStack with Node,Go and Docker",
   summary:
-    "I'm a Frontend Developer with a passion for creating efficient, visually appealing apps. At [Ideas To Impacts](https://www.linkedin.com/company/ideas-to-impacts/mycompany/), I led [GiftBee's](https://www.giftbee.com/) development, transforming the Australian gifting market. Previously at [LeagueX](https://www.leaguex.com/), I optimized performance and unified web+native apps. With a [B-Tech in Computer Science](/#education), I thrive on challenging projects and innovative solutions. Outside of work, I enjoy strategic chess and creative Minecraft builds.",
+    "I'm a **Full Stack Software Engineer** with **5+ years of experience** building scalable, high-performance apps. At [Ideas To Impacts](https://www.linkedin.com/company/ideas-to-impacts/mycompany/), I led [GiftBee's](https://www.giftbee.com/) development, transforming Austria’s gifting market with seamless full-stack integration. Previously at [LeagueX](https://www.leaguex.com/), I unified web + native apps and optimized performance to **60+ FPS**. Skilled in **[React](https://react.dev/)**, **[Next.js](https://nextjs.org/)**, **[Node.js](https://nodejs.org/)**, **Nest.js**, **PostgreSQL**, **MongoDB**, and **AWS**, I thrive on solving complex problems with clean, efficient solutions. With a [B-Tech in Computer Science](/#education), I enjoy the strategy of **chess** and the creativity of **Minecraft builds** outside of work.",
   avatarUrl: "/me.jpeg",
   skills: [
     "React",
