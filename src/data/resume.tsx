@@ -99,7 +99,7 @@ export const DATA = {
       title: "Front End Developer",
       logoUrl: "/ideas_to_impacts_logo.jpg",
       start: "April 2024",
-      end: "Present",
+      end: "November 2025",
       description: `Led the development of GiftBee, a React.js application impacting the
 Australian gifting market. Collaborated with designers, marketers, and
 product owners to translate the vision into reality. Built 12 core user flows
@@ -108,6 +108,20 @@ experience. Refactored a legacy 50k+ line codebase, improving error
 handling, reducing re-renders by 60%, and eliminating unnecessary API
 calls, resulting in a 20% performance gain. Proactively communicated
 inefficiencies to the team and CEO, enhancing overall project success.`,
+    },
+    {
+      company: "Granicus",
+      href: "https://granicus.com/",
+      badges: [],
+      location: "Bangalore (Remote)",
+      title: "SDE 2 (Software Development Engineer)",
+      logoUrl: "/granicus_logo.jpg",
+      start: "November 2025",
+      end: "Present",
+      description: `Contributing to the Simpleview CRM platform using Node.js, React.js, TypeScript, and modern web
+workflows. Supporting microservices and deployments with Docker, Kubernetes, and PostgreSQL, improving
+reliability and scalability. Working with GraphQL and REST APIs, assisting with API testing, debugging, and CI/CD
+enhancements.`,
     },
     {
       company: "LeagueX",
@@ -181,71 +195,12 @@ and satisfying animations.`,
         {
           type: "Website",
           href: "http://hungry-edison-1bfbab.netlify.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
+          icon: <Icons.globe className="size-3" />,        },
         {
           type: "Source",
           href: "https://github.com/SSOURABH58/8Queens",
-          icon: <Icons.github className="size-3" />,
-        },
+          icon: <Icons.github className="size-3" />,        },
       ],
       image: "",
       video: "/8qs.mp4",
-    },
-    {
-      title: "MyToDo's",
-      href: "https://amazing-goldstine-9a484b.netlify.app/",
-      dates: "To-Do list",
-      active: true,
-      description: `MyTodo is a user-friendly To-Do list ReactJS web app designed for
-efficient task management. Leveraging React.js, I integrated REST APIs, a
-proxy server to control API usage within a limit of 300 calls per day, and
-third-party climate APIs for enhanced functionality. Additionally, I
-implemented a local store for storing user tasks and utilized Redux for
-state management, ensuring a seamless and responsive user experience.`,
-      technologies: ["React.js", "Node.js", "REST APIs"],
-      links: [
-        {
-          type: "Website",
-          href: "https://amazing-goldstine-9a484b.netlify.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/SSOURABH58/ReactToDolist",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "",
-      video: "/todo.mp4",
-    },
-    {
-      title: "Binary Tree Visualizer",
-      href: "https://agitated-booth-a97bf4.netlify.app/",
-      dates: "Visualize a Binary Tree",
-      active: true,
-      description: `Binary Tree Visualizer, I continued to utilize React.js to develop a visually
-engaging application dedicated to generating and visualizing Binary
-Search Trees. this project showcased impressive animations and
-integrated various Binary Tree sorting algorithms. The application
-featured an intuitive user interface allowing users to input tree structures,
-explore traversal algorithms interactively, and gain a deeper
-understanding of Binary Search Trees.`,
-      technologies: ["React.js"],
-      links: [
-        {
-          type: "Website",
-          href: "https://agitated-booth-a97bf4.netlify.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/SSOURABH58/binary-tree-visualizer",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "",
-      video: "/btree.mp4",
-    },
-  ],
-} as const;
+  }]
