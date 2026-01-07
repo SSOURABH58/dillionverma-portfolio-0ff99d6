@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Full Stack Developer, with expiries in React and node. pushing for FullStack with Node,Go and Docker",
   summary:
-    "I'm a **Full Stack Software Engineer** with **5+ years of experience** building scalable, high-performance apps. At [Ideas To Impacts](https://www.linkedin.com/company/ideas-to-impacts/mycompany/[...]")
+    "I'm a **Full Stack Software Engineer** with **5+ years of experience** building scalable, high-performance apps. At [Ideas To Impacts](https://www.linkedin.com/company/ideas-to-impacts/mycompany/[...]\")
   avatarUrl: "/me.jpeg",
   skills: [
     "React",
@@ -97,7 +97,7 @@ export const DATA = {
       badges: [],
       location: "Bangalore (Remote)",
       title: "SDE 2 (Software Development Engineer)",
-      logoUrl: "/granicus_logo.jpg",
+      logoUrl: "/granicus_logo.png",
       start: "November 2025",
       end: "Present",
       description: `Contributing to the Simpleview CRM platform using Node.js, React.js, TypeScript, and modern web workflows.\n\u2022 Supporting microservices and deployments with Docker, Kubernetes, and PostgreSQL, improving reliability and scalability.\n\u2022 Working with GraphQL and REST APIs, assisting with API testing, debugging, and CI/CD enhancements.`,
