@@ -9,8 +9,7 @@ export const DATA = {
   locationLink: "https://maps.app.goo.gl/7A1SVmzbTimWEBTaA",
   description:
     "Full Stack Developer, with expiries in React and node. pushing for FullStack with Node,Go and Docker",
-  summary:
-    "I'm a **Full Stack Software Engineer** with **5+ years of experience** building scalable, high-performance apps. At [Ideas To Impacts](https://www.linkedin.com/company/ideas-to-impacts/mycompany/[...]\") 
+  summary: `I'm a **Full Stack Software Engineer** with **5+ years of experience** building scalable, high-performance apps. I have worked across frontend and backend stacks (React, Next.js, Node.js, Go) and have experience with Docker, CI/CD, and modern web workflows.`,
   avatarUrl: "/me.jpeg",
   skills: [
     "React",
@@ -54,7 +53,6 @@ export const DATA = {
     "Basics of Software Engineer",
     "Bootstrap",
     "AI workflows",
-
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -70,21 +68,18 @@ export const DATA = {
         name: "GitHub",
         url: "https://github.com/SSOURABH58",
         icon: Icons.github,
-
         navbar: true,
       },
       LinkedIn: {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/sourabh58",
         icon: Icons.linkedin,
-
         navbar: true,
       },
       email: {
         name: "Send Email",
         url: "mailto:ssourabh025@gmail.com",
         icon: Icons.email,
-
         navbar: true,
       },
     },
@@ -100,7 +95,7 @@ export const DATA = {
       logoUrl: "/granicus_logo.png",
       start: "November 2025",
       end: "Present",
-      description: `Contributing to the Simpleview CRM platform using Node.js, React.js, TypeScript, and modern web workflows.\n\u2022 Supporting microservices and deployments with Docker, Kubernetes, and PostgreSQL, improving reliability and scalability.\n\u2022 Working with GraphQL and REST APIs, assisting with API testing, debugging, and CI/CD enhancements.`,
+      description: `Contributing to the Simpleview CRM platform using Node.js, React.js, and TypeScript. Working with microservices and containerized deployments (Docker, Kubernetes) and improving reliability and observability.`,
     },
     {
       company: "Ideas To Impacts",
@@ -111,7 +106,7 @@ export const DATA = {
       logoUrl: "/ideas_to_impacts_logo.jpg",
       start: "April 2024",
       end: "November 2025",
-      description: `Led the development of GiftBee, a React.js application impacting the\nAustralian gifting market. Collaborated with designers, marketers, and\nproduct owners to translate the vision into reality. Built 12 core user flows\nusing React, Bootstrap, and Redux, optimizing performance and user\nexperience. Refactored a legacy 50k+ line codebase, improving error\nhandling, reducing re-renders by 60%, and eliminating unnecessary API\ncalls, resulting in a 20% performance gain. Proactively communicated\ninefficiencies to the team and CEO, enhancing overall project success.`,
+      description: `Led the frontend development of GiftBee, a React.js application for the Australian gifting market. Collaborated with designers and product owners to deliver features and improve UX.`,
     },
     {
       company: "LeagueX",
@@ -122,7 +117,7 @@ export const DATA = {
       logoUrl: "/leaguex_gaming_logo.jpg",
       start: "June 2021",
       end: "April 2024",
-      description: `Experienced in 2 React Native and Solito+Next.js projects, optimizing\nperformance with 60fps animations and modernising codebases for cost\nefficiency. Achieved a 30% reduction in API calls using Redux, ensuring\nrobust product security. Developed a unified web+native app with\nSolito+Next.js, addressing bleeding-edge compatibility and performance\nchallenges. Proficient in TypeScript, established a mono-repo with\ntree-shaking for efficient code management. Skilled in layout design,\nfonts, animations, navigation, and authentication. Demonstrated\nexpertise in project planning, scoping, prioritization, and managing\ncustomer requirements.`,
+      description: `Built and maintained React Native & Solito+Next.js projects, optimized animations and performance, and modernized codebases to reduce costs and improve maintainability.`,
     },
     {
       company: "Mowito",
@@ -133,7 +128,7 @@ export const DATA = {
       logoUrl: "/mowito_logo.jpg",
       start: "February 2021",
       end: "May 2021",
-      description: `Designed and developed a dynamic real-time data dashboard,\nshowcasing strong frontend and UI/UX skills. Implemented web sockets\nfor seamless robot communication and constant backend data streaming.\nDeployed 5 interactive tables with 80+ server-side attributes,\ncollaborating on 10+ networking/messaging protocols for a scalable\narchitecture. Played a key role in research and testing, boosting existing\nsystems' performance by 33%. I also developed efficient Rest APIs using\nNode.js to meet project requirements`,
+      description: `Designed and developed a real-time data dashboard with web sockets for robot communication, focusing on frontend performance and UX clarity.`,
     },
   ],
   education: [
@@ -160,7 +155,7 @@ export const DATA = {
       href: "http://hungry-edison-1bfbab.netlify.app/",
       dates: "8 Queens Problem",
       active: true,
-      description: `Developed a ReactJS web app to visualize the Eight Queens algorithm,\nenhancing user understanding with over 10 control options. Implemented\nSass for efficient CSS management, resulting in a visually appealing UI\nand satisfying animations.`,
+      description: `A ReactJS web app to visualize the Eight Queens algorithm with multiple controls and Sass for modular styling.`,
       technologies: ["React.js"],
       links: [
         {
@@ -182,7 +177,7 @@ export const DATA = {
       href: "https://amazing-goldstine-9a484b.netlify.app/",
       dates: "To-Do list",
       active: true,
-      description: `MyTodo is a user-friendly To-Do list ReactJS web app designed for\nefficient task management. Leveraging React.js, I integrated REST APIs, a\nproxy server to control API usage within a limit of 300 calls per day, and\nthird-party climate APIs for enhanced functionality. Additionally, I\nimplemented a local store for storing user tasks and utilized Redux for\nstate management, ensuring a seamless and responsive user experience.`,
+      description: `User-friendly To-Do list React app with REST API integration and a proxy server to manage API usage.`,
       technologies: ["React.js", "Node.js", "REST APIs"],
       links: [
         {
@@ -204,7 +199,7 @@ export const DATA = {
       href: "https://agitated-booth-a97bf4.netlify.app/",
       dates: "Visualize a Binary Tree",
       active: true,
-      description: `Binary Tree Visualizer, I continued to utilize React.js to develop a visually\nengaging application dedicated to generating and visualizing Binary\nSearch Trees. this project showcased impressive animations and\nintegrated various Binary Tree sorting algorithms. The application\nfeatured an intuitive user interface allowing users to input tree structures,\nexplore traversal algorithms interactively, and gain a deeper\nunderstanding of Binary Search Trees.`,
+      description: `A React app to generate and visualize Binary Search Trees with interactive controls.`,
       technologies: ["React.js"],
       links: [
         {
