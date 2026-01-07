@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Full Stack Developer, with expiries in React and node. pushing for FullStack with Node,Go and Docker",
   summary:
-    "I'm a **Full Stack Software Engineer** with **5+ years of experience** building scalable, high-performance apps. At [Ideas To Impacts](https://www.linkedin.com/company/ideas-to-impacts/mycompany/[...]\")
+    "I'm a **Full Stack Software Engineer** with **5+ years of experience** building scalable, high-performance apps. At [Ideas To Impacts](https://www.linkedin.com/company/ideas-to-impacts/mycompany/[...]\") 
   avatarUrl: "/me.jpeg",
   skills: [
     "React",
